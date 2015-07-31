@@ -11,3 +11,8 @@ Websites:
 * [Team Repo (infinite regression link)](https://github.com/trolster/team-repo)
 
 Lets get started listing resources!
+
+## Optimization
+
+Websites:
+* [tinypng](https://tinypng.com) - simple online resource for images compression.
