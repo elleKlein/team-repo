@@ -8,9 +8,16 @@ Udacity courses:
 
 Websites:
 * [GitHub](https://github.com)
-* [Team Repo (infinite regression link)](https://github.com/trolster/team-repo)
 
-Lets get started listing resources!
+## JavaScript
+
+Documentation:
+* [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+Interactive Beginners Guides:
+* [Codecademy JavaScript Track (free)](https://www.codecademy.com/en/tracks/javascript)
+* [Code School JavaScript Road Trip Part 1 (free)](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+* [Code School JavaScript Path ($29/m)](https://www.codeschool.com/paths/javascript)
 
 ## Optimization
 
