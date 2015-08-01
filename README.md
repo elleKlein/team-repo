@@ -18,6 +18,7 @@ Interactive Beginners Guides:
 * [Codecademy JavaScript Track (free)](https://www.codecademy.com/en/tracks/javascript)
 * [Code School JavaScript Road Trip Part 1 (free)](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 * [Code School JavaScript Path ($29/m)](https://www.codeschool.com/paths/javascript)
+* [Egghead javascript and javascript frameworks School](https://egghead.io/)
 
 ## Optimization
 
