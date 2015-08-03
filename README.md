@@ -9,6 +9,9 @@ Udacity courses:
 Websites:
 * [GitHub](https://github.com)
 
+Reference:
+* [Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/)
+
 ## JavaScript
 
 Documentation:
@@ -24,3 +27,11 @@ Interactive Beginners Guides:
 
 Websites:
 * [tinypng](https://tinypng.com) - simple online resource for images compression.
+
+## Jokes
+
+Why did the programmer quit his job?
+Because he didnt get arrays.
+
+Why did the web developer leave the restaurant?
+Bad table layout.
